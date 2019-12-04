@@ -1,4 +1,3 @@
-# Pattern
 To display simple patterns
 
 # Pattern1
