@@ -1,6 +1,7 @@
 # Pattern
-To display a simple pattern
+To display simple patterns
 
+# Pattern1
 test cases: 4
 
 Output:
@@ -9,3 +10,5 @@ Output:
   23
  345
 4567
+
+
